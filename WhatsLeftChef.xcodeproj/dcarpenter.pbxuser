@@ -1,0 +1,534 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* WhatsLeftChefAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {600, 667}}";
+			sepNavSelRange = "{570, 0}";
+			sepNavVisRange = "{0, 578}";
+		};
+	};
+	1D3623250D0F684500981E51 /* WhatsLeftChefAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1307, 1365}}";
+			sepNavSelRange = "{331, 0}";
+			sepNavVisRange = "{1613, 1124}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* WhatsLeftChef */ = {
+		activeExec = 0;
+		executables = (
+			CEA56CA711A2E83B00B44B3E /* WhatsLeftChef */,
+		);
+	};
+	28A0AAE50D9B0CCF005BE974 /* WhatsLeftChef_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1280, 747}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 332}";
+		};
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {733, 667}}";
+			sepNavSelRange = "{155, 0}";
+			sepNavVisRange = "{0, 1295}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{5693, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{5744, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{5794, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 6625}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 2977}}";
+			sepNavSelRange = "{647, 0}";
+			sepNavVisRange = "{334, 1741}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CEA56CA711A2E83B00B44B3E /* WhatsLeftChef */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* WhatsLeftChef */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* WhatsLeftChef */,
+		);
+		codeSenseManager = CEA56CB911A2E85600B44B3E /* Code sense */;
+		executables = (
+			CEA56CA711A2E83B00B44B3E /* WhatsLeftChef */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					911.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					807,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 333322608;
+			PBXWorkspaceStateSaveDate = 333322608;
+		};
+		perUserProjectItems = {
+			CE1996FD13DE71BA00BEB585 /* PBXBookmark */ = CE1996FD13DE71BA00BEB585 /* PBXBookmark */;
+			CE1996FE13DEAB9900BEB585 /* PBXBookmark */ = CE1996FE13DEAB9900BEB585 /* PBXBookmark */;
+			CE19970113DEAB9900BEB585 /* PBXTextBookmark */ = CE19970113DEAB9900BEB585 /* PBXTextBookmark */;
+			CE1A254E121CB1A200CDFF2A /* PBXBookmark */ = CE1A254E121CB1A200CDFF2A /* PBXBookmark */;
+			CE35053011AB31F5009F0FD5 /* PBXTextBookmark */ = CE35053011AB31F5009F0FD5 /* PBXTextBookmark */;
+			CE35053611AB31F5009F0FD5 /* PBXTextBookmark */ = CE35053611AB31F5009F0FD5 /* PBXTextBookmark */;
+			CE35053711AB31F5009F0FD5 /* PBXTextBookmark */ = CE35053711AB31F5009F0FD5 /* PBXTextBookmark */;
+			CE3E997C11AB428F00E15A20 /* PlistBookmark */ = CE3E997C11AB428F00E15A20 /* PlistBookmark */;
+			CE3E99D611AB52F900E15A20 /* PBXTextBookmark */ = CE3E99D611AB52F900E15A20 /* PBXTextBookmark */;
+			CE3E9A3B11AB5A9E00E15A20 /* PBXTextBookmark */ = CE3E9A3B11AB5A9E00E15A20 /* PBXTextBookmark */;
+			CE3E9A3C11AB5A9E00E15A20 /* PBXTextBookmark */ = CE3E9A3C11AB5A9E00E15A20 /* PBXTextBookmark */;
+			CE3E9A3E11AB5A9E00E15A20 /* PBXTextBookmark */ = CE3E9A3E11AB5A9E00E15A20 /* PBXTextBookmark */;
+			CE3E9A3F11AB5A9E00E15A20 /* PBXTextBookmark */ = CE3E9A3F11AB5A9E00E15A20 /* PBXTextBookmark */;
+			CE3E9A4011AB5A9E00E15A20 /* PBXTextBookmark */ = CE3E9A4011AB5A9E00E15A20 /* PBXTextBookmark */;
+			CE3E9A4211AB5A9E00E15A20 /* PBXTextBookmark */ = CE3E9A4211AB5A9E00E15A20 /* PBXTextBookmark */;
+			CE9AFCA911A89761007A9856 /* PBXTextBookmark */ = CE9AFCA911A89761007A9856 /* PBXTextBookmark */;
+			CE9AFCAA11A89761007A9856 /* PBXTextBookmark */ = CE9AFCAA11A89761007A9856 /* PBXTextBookmark */;
+			CEBB32E211AC1F56001891C8 /* PBXTextBookmark */ = CEBB32E211AC1F56001891C8 /* PBXTextBookmark */;
+			CEBB32E311AC1F56001891C8 /* PBXTextBookmark */ = CEBB32E311AC1F56001891C8 /* PBXTextBookmark */;
+			CEBB32E411AC1F56001891C8 /* PBXBookmark */ = CEBB32E411AC1F56001891C8 /* PBXBookmark */;
+			CEBB32E511AC1F56001891C8 /* PBXBookmark */ = CEBB32E511AC1F56001891C8 /* PBXBookmark */;
+			CEBB32E611AC1F56001891C8 /* PBXBookmark */ = CEBB32E611AC1F56001891C8 /* PBXBookmark */;
+			CEDC140F11AB610800591598 /* PBXTextBookmark */ = CEDC140F11AB610800591598 /* PBXTextBookmark */;
+			CEDC141011AB610800591598 /* PBXTextBookmark */ = CEDC141011AB610800591598 /* PBXTextBookmark */;
+			CEDC141111AB610800591598 /* PBXTextBookmark */ = CEDC141111AB610800591598 /* PBXTextBookmark */;
+			CEDC141211AB610800591598 /* PBXTextBookmark */ = CEDC141211AB610800591598 /* PBXTextBookmark */;
+			CEDC141311AB610800591598 /* PBXTextBookmark */ = CEDC141311AB610800591598 /* PBXTextBookmark */;
+			CEDC141411AB610800591598 /* PBXTextBookmark */ = CEDC141411AB610800591598 /* PBXTextBookmark */;
+			CEF2C04713C7AD5C005D9FCE /* PBXBookmark */ = CEF2C04713C7AD5C005D9FCE /* PBXBookmark */;
+		};
+		sourceControlManager = CEA56CB811A2E85600B44B3E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1280, 747}}";
+			sepNavSelRange = "{120, 0}";
+			sepNavVisRange = "{0, 375}";
+		};
+	};
+	CE1996FD13DE71BA00BEB585 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CE3D653911A6CB4D00AD6C6B /* MealDetailViewController.m */;
+	};
+	CE1996FE13DEAB9900BEB585 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CE3504CB11AAE7F4009F0FD5 /* kraftcheese.png */;
+	};
+	CE19970113DEAB9900BEB585 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE3D653911A6CB4D00AD6C6B /* MealDetailViewController.m */;
+		name = "MealDetailViewController.m: 37";
+		rLen = 32;
+		rLoc = 1052;
+		rType = 0;
+		vrLen = 1753;
+		vrLoc = 101;
+	};
+	CE1A254E121CB1A200CDFF2A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CE3504C711AAE7F4009F0FD5 /* creepychef.png */;
+	};
+	CE35053011AB31F5009F0FD5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CEA56CDA11A2F47800B44B3E /* GuestSizeViewController.m */;
+		name = "GuestSizeViewController.m: 3";
+		rLen = 0;
+		rLoc = 50;
+		rType = 0;
+		vrLen = 1762;
+		vrLoc = 0;
+	};
+	CE35053611AB31F5009F0FD5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AAE50D9B0CCF005BE974 /* WhatsLeftChef_Prefix.pch */;
+		name = "WhatsLeftChef_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 332;
+		vrLoc = 0;
+	};
+	CE35053711AB31F5009F0FD5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 6";
+		rLen = 0;
+		rLoc = 120;
+		rType = 0;
+		vrLen = 375;
+		vrLoc = 0;
+	};
+	CE3D653811A6CB4D00AD6C6B /* MealDetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {815, 669}}";
+			sepNavSelRange = "{252, 33}";
+			sepNavVisRange = "{0, 291}";
+		};
+	};
+	CE3D653911A6CB4D00AD6C6B /* MealDetailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1381, 910}}";
+			sepNavSelRange = "{1052, 32}";
+			sepNavVisRange = "{101, 1753}";
+			sepNavWindowFrame = "{{5, 4}, {1440, 874}}";
+		};
+	};
+	CE3E997C11AB428F00E15A20 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WhatsLeftChef-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/WhatsLeftChef-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	CE3E99C611AB4FB100E15A20 /* Food.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {668, 544}}";
+			sepNavSelRange = "{289, 0}";
+			sepNavVisRange = "{0, 289}";
+		};
+	};
+	CE3E99C711AB4FB100E15A20 /* Food.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {460, 667}}";
+			sepNavSelRange = "{305, 0}";
+			sepNavVisRange = "{0, 313}";
+		};
+	};
+	CE3E99D611AB52F900E15A20 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CEA56D2A11A2F90E00B44B3E /* FridgeViewController.h */;
+		name = "FridgeViewController.h: 18";
+		rLen = 0;
+		rLoc = 470;
+		rType = 0;
+		vrLen = 476;
+		vrLoc = 0;
+	};
+	CE3E9A3B11AB5A9E00E15A20 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CEA56D2B11A2F90E00B44B3E /* FridgeViewController.m */;
+		name = "FridgeViewController.m: 178";
+		rLen = 0;
+		rLoc = 6715;
+		rType = 0;
+		vrLen = 2276;
+		vrLoc = 5225;
+	};
+	CE3E9A3C11AB5A9E00E15A20 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CEA56D6311A3016D00B44B3E /* MealTypeSelectViewController.h */;
+		name = "MealTypeSelectViewController.h: 16";
+		rLen = 0;
+		rLoc = 406;
+		rType = 0;
+		vrLen = 489;
+		vrLoc = 0;
+	};
+	CE3E9A3E11AB5A9E00E15A20 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CEA56D4811A2FB6C00B44B3E /* ManualFridgeItemAddViewController.h */;
+		name = "ManualFridgeItemAddViewController.h: 16";
+		rLen = 0;
+		rLoc = 345;
+		rType = 0;
+		vrLen = 389;
+		vrLoc = 0;
+	};
+	CE3E9A3F11AB5A9E00E15A20 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CEA56D6411A3016D00B44B3E /* MealTypeSelectViewController.m */;
+		name = "MealTypeSelectViewController.m: 61";
+		rLen = 0;
+		rLoc = 1924;
+		rType = 0;
+		vrLen = 1778;
+		vrLoc = 288;
+	};
+	CE3E9A4011AB5A9E00E15A20 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE3D653811A6CB4D00AD6C6B /* MealDetailViewController.h */;
+		name = "MealDetailViewController.h: 15";
+		rLen = 33;
+		rLoc = 252;
+		rType = 0;
+		vrLen = 291;
+		vrLoc = 0;
+	};
+	CE3E9A4211AB5A9E00E15A20 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CEA56DE411A30E9D00B44B3E /* MealsViewController.h */;
+		name = "MealsViewController.h: 17";
+		rLen = 0;
+		rLoc = 407;
+		rType = 0;
+		vrLen = 580;
+		vrLoc = 0;
+	};
+	CE9AFCA911A89761007A9856 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CEA56CD911A2F47800B44B3E /* GuestSizeViewController.h */;
+		name = "GuestSizeViewController.h: 19";
+		rLen = 0;
+		rLoc = 513;
+		rType = 0;
+		vrLen = 685;
+		vrLoc = 0;
+	};
+	CE9AFCAA11A89761007A9856 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* WhatsLeftChefAppDelegate.m */;
+		name = "WhatsLeftChefAppDelegate.m: 15";
+		rLen = 0;
+		rLoc = 331;
+		rType = 0;
+		vrLen = 1124;
+		vrLoc = 1613;
+	};
+	CEA56CA711A2E83B00B44B3E /* WhatsLeftChef */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = WhatsLeftChef;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	CEA56CB811A2E85600B44B3E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CEA56CB911A2E85600B44B3E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CEA56CD911A2F47800B44B3E /* GuestSizeViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1307, 702}}";
+			sepNavSelRange = "{513, 0}";
+			sepNavVisRange = "{0, 685}";
+		};
+	};
+	CEA56CDA11A2F47800B44B3E /* GuestSizeViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1280, 1287}}";
+			sepNavSelRange = "{50, 0}";
+			sepNavVisRange = "{0, 1762}";
+			sepNavWindowFrame = "{{15, 4}, {1665, 1023}}";
+		};
+	};
+	CEA56D2A11A2F90E00B44B3E /* FridgeViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {944, 693}}";
+			sepNavSelRange = "{470, 0}";
+			sepNavVisRange = "{0, 476}";
+		};
+	};
+	CEA56D2B11A2F90E00B44B3E /* FridgeViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1379, 2847}}";
+			sepNavSelRange = "{6535, 0}";
+			sepNavVisRange = "{5398, 2022}";
+			sepNavWindowFrame = "{{499, -29}, {1665, 1024}}";
+		};
+	};
+	CEA56D4811A2FB6C00B44B3E /* ManualFridgeItemAddViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {815, 669}}";
+			sepNavSelRange = "{345, 0}";
+			sepNavVisRange = "{0, 389}";
+		};
+	};
+	CEA56D4911A2FB6C00B44B3E /* ManualFridgeItemAddViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 871}}";
+			sepNavSelRange = "{659, 0}";
+			sepNavVisRange = "{0, 1603}";
+		};
+	};
+	CEA56D6311A3016D00B44B3E /* MealTypeSelectViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {815, 669}}";
+			sepNavSelRange = "{406, 0}";
+			sepNavVisRange = "{0, 489}";
+		};
+	};
+	CEA56D6411A3016D00B44B3E /* MealTypeSelectViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 988}}";
+			sepNavSelRange = "{1924, 0}";
+			sepNavVisRange = "{288, 1778}";
+		};
+	};
+	CEA56DE411A30E9D00B44B3E /* MealsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {815, 669}}";
+			sepNavSelRange = "{407, 0}";
+			sepNavVisRange = "{0, 580}";
+		};
+	};
+	CEA56DE511A30E9D00B44B3E /* MealsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1825, 2821}}";
+			sepNavSelRange = "{2511, 6}";
+			sepNavVisRange = "{1131, 3050}";
+		};
+	};
+	CEBB32E211AC1F56001891C8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE3E99C611AB4FB100E15A20 /* Food.h */;
+		name = "Food.h: 18";
+		rLen = 0;
+		rLoc = 289;
+		rType = 0;
+		vrLen = 289;
+		vrLoc = 0;
+	};
+	CEBB32E311AC1F56001891C8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CEA56DE511A30E9D00B44B3E /* MealsViewController.m */;
+		name = "MealsViewController.m: 61";
+		rLen = 6;
+		rLoc = 2511;
+		rType = 0;
+		vrLen = 3050;
+		vrLoc = 1131;
+	};
+	CEBB32E411AC1F56001891C8 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CE3504C811AAE7F4009F0FD5 /* gallonofmilk.png */;
+	};
+	CEBB32E511AC1F56001891C8 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CE3504C911AAE7F4009F0FD5 /* glassofmilk.png */;
+	};
+	CEBB32E611AC1F56001891C8 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CE3504CA11AAE7F4009F0FD5 /* hamandcheese.png */;
+	};
+	CEDC140F11AB610800591598 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CEA56D4911A2FB6C00B44B3E /* ManualFridgeItemAddViewController.m */;
+		name = "ManualFridgeItemAddViewController.m: 21";
+		rLen = 0;
+		rLoc = 659;
+		rType = 0;
+		vrLen = 1603;
+		vrLoc = 0;
+	};
+	CEDC141011AB610800591598 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* WhatsLeftChefAppDelegate.h */;
+		name = "WhatsLeftChefAppDelegate.h: 20";
+		rLen = 0;
+		rLoc = 570;
+		rType = 0;
+		vrLen = 578;
+		vrLoc = 0;
+	};
+	CEDC141111AB610800591598 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 6";
+		rLen = 0;
+		rLoc = 155;
+		rType = 0;
+		vrLen = 1295;
+		vrLoc = 0;
+	};
+	CEDC141211AB610800591598 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 28";
+		rLen = 0;
+		rLoc = 647;
+		rType = 0;
+		vrLen = 1741;
+		vrLoc = 334;
+	};
+	CEDC141311AB610800591598 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE3D653911A6CB4D00AD6C6B /* MealDetailViewController.m */;
+		name = "MealDetailViewController.m: 37";
+		rLen = 32;
+		rLoc = 1052;
+		rType = 0;
+		vrLen = 1680;
+		vrLoc = 170;
+	};
+	CEDC141411AB610800591598 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CE3E99C711AB4FB100E15A20 /* Food.m */;
+		name = "Food.m: 17";
+		rLen = 0;
+		rLoc = 305;
+		rType = 0;
+		vrLen = 313;
+		vrLoc = 0;
+	};
+	CEF2C04713C7AD5C005D9FCE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CE3504CB11AAE7F4009F0FD5 /* kraftcheese.png */;
+	};
+}

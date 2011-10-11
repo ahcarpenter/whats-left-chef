@@ -1,0 +1,157 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* WhatsLeftChef */ = {
+		activeExec = 0;
+		executables = (
+			4DFD9FDC121875420087379D /* WhatsLeftChef */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4DFD9FDC121875420087379D /* WhatsLeftChef */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* WhatsLeftChef */;
+		codeSenseManager = 4DFD9FE8121875610087379D /* Code sense */;
+		executables = (
+			4DFD9FDC121875420087379D /* WhatsLeftChef */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					529,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 303614943;
+			PBXWorkspaceStateSaveDate = 303614943;
+		};
+		perUserProjectItems = {
+			4D3983481218BA04007972E3 /* PBXTextBookmark */ = 4D3983481218BA04007972E3 /* PBXTextBookmark */;
+			4D39834F1218CBFF007972E3 /* PBXTextBookmark */ = 4D39834F1218CBFF007972E3 /* PBXTextBookmark */;
+			4DFD9FEA121875C00087379D /* PBXTextBookmark */ = 4DFD9FEA121875C00087379D /* PBXTextBookmark */;
+			4DFD9FEB121875C00087379D /* PBXTextBookmark */ = 4DFD9FEB121875C00087379D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4DFD9FE7121875610087379D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4D3983481218BA04007972E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CEA56D2B11A2F90E00B44B3E /* FridgeViewController.m */;
+		name = "FridgeViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 640;
+		vrLoc = 7700;
+	};
+	4D39834F1218CBFF007972E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CEA56D2B11A2F90E00B44B3E /* FridgeViewController.m */;
+		name = "FridgeViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 7700;
+	};
+	4DFD9FDC121875420087379D /* WhatsLeftChef */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = WhatsLeftChef;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	4DFD9FE7121875610087379D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4DFD9FE8121875610087379D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4DFD9FEA121875C00087379D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CEA56D4911A2FB6C00B44B3E /* ManualFridgeItemAddViewController.m */;
+		name = "ManualFridgeItemAddViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 700;
+		vrLoc = 1260;
+	};
+	4DFD9FEB121875C00087379D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CEA56D6411A3016D00B44B3E /* MealTypeSelectViewController.m */;
+		name = "MealTypeSelectViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 824;
+		vrLoc = 0;
+	};
+	CEA56D2B11A2F90E00B44B3E /* FridgeViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {929, 3289}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{7700, 609}";
+		};
+	};
+	CEA56D4911A2FB6C00B44B3E /* ManualFridgeItemAddViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 936}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1260, 700}";
+		};
+	};
+	CEA56D6411A3016D00B44B3E /* MealTypeSelectViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 988}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 824}";
+		};
+	};
+}

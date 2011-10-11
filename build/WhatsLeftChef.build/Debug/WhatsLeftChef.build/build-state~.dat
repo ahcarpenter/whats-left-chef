@@ -1,0 +1,260 @@
+TWhatsLeftChef
+v7
+r1
+cCheck dependencies
+
+N/Users/rengland/Dropbox/WhatsLeftChef/Classes/FridgeViewController.xib
+c000000004BF6D2750000000000003EFD
+t1274466933
+s16125
+
+N/Users/rengland/Dropbox/WhatsLeftChef/Classes/GuestSizeViewController.xib
+c000000004BF6F06B000000000000718B
+t1274474603
+s29067
+
+N/Users/rengland/Dropbox/WhatsLeftChef/Classes/ManualFridgeItemAddViewController.xib
+c000000004BF2C3EC000000000000189E
+t1274201068
+s6302
+
+N/Users/rengland/Dropbox/WhatsLeftChef/Classes/MealTypeSelectViewController.xib
+c000000004BF2D664000000000000634E
+t1274205796
+s25422
+
+N/Users/rengland/Dropbox/WhatsLeftChef/FridgeItemTableViewCell.xib
+c000000004BFB20A80000000000005E85
+t1274749096
+s24197
+
+N/Users/rengland/Dropbox/WhatsLeftChef/MainWindow.xib
+c000000004BF2BE7D0000000000005BCB
+t1274199677
+s23499
+
+N/Users/rengland/Dropbox/WhatsLeftChef/MealDetailViewController.xib
+c000000004BFB24270000000000006376
+t1274749991
+s25462
+
+N/Users/rengland/Dropbox/WhatsLeftChef/MealsViewController.xib
+c000000004BF697480000000000004AE4
+t1274451784
+s19172
+
+N/Users/rengland/Dropbox/WhatsLeftChef/RecipeListTableViewCell.xib
+c000000004BFB20F500000000000075F3
+t1274749173
+s30195
+
+N/Users/rengland/Dropbox/WhatsLeftChef/RootViewController.xib
+c000000004BF84CEB000000000000A8A5
+t1274563819
+s43173
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Info.plist
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Resources/FridgeItemTableViewCell.nib
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Resources/FridgeViewController.nib
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Resources/GuestSizeViewController.nib
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Resources/ManualFridgeItemAddViewController.nib
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Resources/MealDetailViewController.nib
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Resources/MealTypeSelectViewController.nib
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Resources/MealsViewController.nib
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Resources/RecipeListTableViewCell.nib
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Resources/RootViewController.nib
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Resources/creepychef.png
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Resources/gallonofmilk.png
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Resources/glassofmilk.png
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Resources/hamandcheese.png
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Resources/kraftcheese.png
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Resources/krogerham.png
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Resources/loafofbread.png
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Resources/whatsleftchef.db
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Resources/whatsleftchef.png
+t2
+s0
+
+N/Users/rengland/Dropbox/WhatsLeftChef/creepychef.png
+c000000004BF2B295000000000001CE65
+t1274196629
+s118373
+
+N/Users/rengland/Dropbox/WhatsLeftChef/gallonofmilk.png
+c000000004BFAA2020000000000000C2B
+t1274716674
+s3115
+
+N/Users/rengland/Dropbox/WhatsLeftChef/glassofmilk.png
+c000000004BFAA7A90000000000000A6D
+t1274718121
+s2669
+
+N/Users/rengland/Dropbox/WhatsLeftChef/hamandcheese.png
+c000000004BFAA17D00000000000020F2
+t1274716541
+s8434
+
+N/Users/rengland/Dropbox/WhatsLeftChef/kraftcheese.png
+c000000004BFAA15A000000000000165E
+t1274716506
+s5726
+
+N/Users/rengland/Dropbox/WhatsLeftChef/krogerham.png
+c000000004BFAA10B0000000000001588
+t1274716427
+s5512
+
+N/Users/rengland/Dropbox/WhatsLeftChef/loafofbread.png
+c000000004BFAA1350000000000001364
+t1274716469
+s4964
+
+N/Users/rengland/Dropbox/WhatsLeftChef/whatsleftchef.db
+c000000004BFBE48B0000000000009000
+t1274799243
+s36864
+
+N/Users/rengland/Dropbox/WhatsLeftChef/whatsleftchef.png
+c000000004BF2F5EF00000000000024F6
+t1274213871
+s9462
+
+NWhatsLeftChef-Info.plist
+c000000004BFAB0CF000000000000038C
+t1274720463
+s908
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303592775#303592775#0(68"[BEROR]error: There is no SDK with the name or path 'iphoneos3.1.3'1(4@60"error: There is no SDK with the name or path 'iphoneos3.1.3'303592775#18446744073709551615#0#0(1@0"0(0#1#0"32651513917735028#0"0#
+
+CCompileXIB /Users/rengland/Dropbox/WhatsLeftChef/Classes/FridgeViewController.xib
+r0
+
+CCompileXIB /Users/rengland/Dropbox/WhatsLeftChef/Classes/GuestSizeViewController.xib
+r0
+
+CCompileXIB /Users/rengland/Dropbox/WhatsLeftChef/Classes/ManualFridgeItemAddViewController.xib
+r0
+
+CCompileXIB /Users/rengland/Dropbox/WhatsLeftChef/Classes/MealTypeSelectViewController.xib
+r0
+
+CCompileXIB /Users/rengland/Dropbox/WhatsLeftChef/FridgeItemTableViewCell.xib
+r0
+
+CCompileXIB /Users/rengland/Dropbox/WhatsLeftChef/MainWindow.xib
+r0
+
+CCompileXIB /Users/rengland/Dropbox/WhatsLeftChef/MealDetailViewController.xib
+r0
+
+CCompileXIB /Users/rengland/Dropbox/WhatsLeftChef/MealsViewController.xib
+r0
+
+CCompileXIB /Users/rengland/Dropbox/WhatsLeftChef/RecipeListTableViewCell.xib
+r0
+
+CCompileXIB /Users/rengland/Dropbox/WhatsLeftChef/RootViewController.xib
+r0
+
+CCpResource build/Debug/WhatsLeftChef.app/Contents/Resources/creepychef.png creepychef.png
+r0
+
+CCpResource build/Debug/WhatsLeftChef.app/Contents/Resources/gallonofmilk.png gallonofmilk.png
+r0
+
+CCpResource build/Debug/WhatsLeftChef.app/Contents/Resources/glassofmilk.png glassofmilk.png
+r0
+
+CCpResource build/Debug/WhatsLeftChef.app/Contents/Resources/hamandcheese.png hamandcheese.png
+r0
+
+CCpResource build/Debug/WhatsLeftChef.app/Contents/Resources/kraftcheese.png kraftcheese.png
+r0
+
+CCpResource build/Debug/WhatsLeftChef.app/Contents/Resources/krogerham.png krogerham.png
+r0
+
+CCpResource build/Debug/WhatsLeftChef.app/Contents/Resources/loafofbread.png loafofbread.png
+r0
+
+CCpResource build/Debug/WhatsLeftChef.app/Contents/Resources/whatsleftchef.db whatsleftchef.db
+r0
+
+CCpResource build/Debug/WhatsLeftChef.app/Contents/Resources/whatsleftchef.png whatsleftchef.png
+r0
+
+CProcessInfoPlistFile /Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app/Contents/Info.plist WhatsLeftChef-Info.plist
+r0
+
+CTouch /Users/rengland/Dropbox/WhatsLeftChef/build/Debug/WhatsLeftChef.app
+r0
+

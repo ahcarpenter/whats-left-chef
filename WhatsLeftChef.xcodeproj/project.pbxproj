@@ -1,0 +1,372 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* WhatsLeftChefAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* WhatsLeftChefAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */; };
+		28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD735F0D9D9599002E5188 /* MainWindow.xib */; };
+		28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */; };
+		28F335F11007B36200424DE2 /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28F335F01007B36200424DE2 /* RootViewController.xib */; };
+		CE2B778611A70A4F00610F33 /* FridgeItemTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE2B778511A70A4F00610F33 /* FridgeItemTableViewCell.xib */; };
+		CE3504CF11AAE7F4009F0FD5 /* creepychef.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3504C711AAE7F4009F0FD5 /* creepychef.png */; };
+		CE3504D011AAE7F4009F0FD5 /* gallonofmilk.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3504C811AAE7F4009F0FD5 /* gallonofmilk.png */; };
+		CE3504D111AAE7F4009F0FD5 /* glassofmilk.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3504C911AAE7F4009F0FD5 /* glassofmilk.png */; };
+		CE3504D211AAE7F4009F0FD5 /* hamandcheese.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3504CA11AAE7F4009F0FD5 /* hamandcheese.png */; };
+		CE3504D311AAE7F4009F0FD5 /* kraftcheese.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3504CB11AAE7F4009F0FD5 /* kraftcheese.png */; };
+		CE3504D411AAE7F4009F0FD5 /* krogerham.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3504CC11AAE7F4009F0FD5 /* krogerham.png */; };
+		CE3504D511AAE7F4009F0FD5 /* loafofbread.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3504CD11AAE7F4009F0FD5 /* loafofbread.png */; };
+		CE3504D611AAE7F4009F0FD5 /* whatsleftchef.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3504CE11AAE7F4009F0FD5 /* whatsleftchef.png */; };
+		CE3D653A11A6CB4D00AD6C6B /* MealDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE3D653911A6CB4D00AD6C6B /* MealDetailViewController.m */; };
+		CE3D653C11A6CB8400AD6C6B /* MealDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE3D653B11A6CB8400AD6C6B /* MealDetailViewController.xib */; };
+		CE3E99C811AB4FB100E15A20 /* Food.m in Sources */ = {isa = PBXBuildFile; fileRef = CE3E99C711AB4FB100E15A20 /* Food.m */; };
+		CE7DB17E11A5E99F004724FB /* whatsleftchef.db in Resources */ = {isa = PBXBuildFile; fileRef = CE7DB17D11A5E99F004724FB /* whatsleftchef.db */; };
+		CE7DB1A711A5EAA8004724FB /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = CE7DB1A611A5EAA8004724FB /* libsqlite3.dylib */; };
+		CE7DB1AF11A5F132004724FB /* RecipeListTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE7DB1AE11A5F132004724FB /* RecipeListTableViewCell.xib */; };
+		CEA56CDC11A2F47800B44B3E /* GuestSizeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CEA56CDA11A2F47800B44B3E /* GuestSizeViewController.m */; };
+		CEA56CDD11A2F47800B44B3E /* GuestSizeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEA56CDB11A2F47800B44B3E /* GuestSizeViewController.xib */; };
+		CEA56D2D11A2F90E00B44B3E /* FridgeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CEA56D2B11A2F90E00B44B3E /* FridgeViewController.m */; };
+		CEA56D2E11A2F90E00B44B3E /* FridgeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEA56D2C11A2F90E00B44B3E /* FridgeViewController.xib */; };
+		CEA56D4B11A2FB6C00B44B3E /* ManualFridgeItemAddViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CEA56D4911A2FB6C00B44B3E /* ManualFridgeItemAddViewController.m */; };
+		CEA56D4C11A2FB6C00B44B3E /* ManualFridgeItemAddViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEA56D4A11A2FB6C00B44B3E /* ManualFridgeItemAddViewController.xib */; };
+		CEA56D6611A3016D00B44B3E /* MealTypeSelectViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CEA56D6411A3016D00B44B3E /* MealTypeSelectViewController.m */; };
+		CEA56D6711A3016D00B44B3E /* MealTypeSelectViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEA56D6511A3016D00B44B3E /* MealTypeSelectViewController.xib */; };
+		CEA56DE611A30E9D00B44B3E /* MealsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CEA56DE511A30E9D00B44B3E /* MealsViewController.m */; };
+		CEA56DE811A30EAD00B44B3E /* MealsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEA56DE711A30EAD00B44B3E /* MealsViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* WhatsLeftChefAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WhatsLeftChefAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* WhatsLeftChefAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WhatsLeftChefAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* WhatsLeftChef.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WhatsLeftChef.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28A0AAE50D9B0CCF005BE974 /* WhatsLeftChef_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WhatsLeftChef_Prefix.pch; sourceTree = "<group>"; };
+		28AD735F0D9D9599002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		28C286E00D94DF7D0034E888 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		28F335F01007B36200424DE2 /* RootViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RootViewController.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* WhatsLeftChef-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "WhatsLeftChef-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		CE2B778511A70A4F00610F33 /* FridgeItemTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FridgeItemTableViewCell.xib; sourceTree = "<group>"; };
+		CE3504C711AAE7F4009F0FD5 /* creepychef.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = creepychef.png; sourceTree = "<group>"; };
+		CE3504C811AAE7F4009F0FD5 /* gallonofmilk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gallonofmilk.png; sourceTree = "<group>"; };
+		CE3504C911AAE7F4009F0FD5 /* glassofmilk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = glassofmilk.png; sourceTree = "<group>"; };
+		CE3504CA11AAE7F4009F0FD5 /* hamandcheese.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hamandcheese.png; sourceTree = "<group>"; };
+		CE3504CB11AAE7F4009F0FD5 /* kraftcheese.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kraftcheese.png; sourceTree = "<group>"; };
+		CE3504CC11AAE7F4009F0FD5 /* krogerham.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = krogerham.png; sourceTree = "<group>"; };
+		CE3504CD11AAE7F4009F0FD5 /* loafofbread.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loafofbread.png; sourceTree = "<group>"; };
+		CE3504CE11AAE7F4009F0FD5 /* whatsleftchef.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whatsleftchef.png; sourceTree = "<group>"; };
+		CE3D653811A6CB4D00AD6C6B /* MealDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MealDetailViewController.h; sourceTree = "<group>"; };
+		CE3D653911A6CB4D00AD6C6B /* MealDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MealDetailViewController.m; sourceTree = "<group>"; };
+		CE3D653B11A6CB8400AD6C6B /* MealDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MealDetailViewController.xib; sourceTree = "<group>"; };
+		CE3E99C611AB4FB100E15A20 /* Food.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Food.h; sourceTree = "<group>"; };
+		CE3E99C711AB4FB100E15A20 /* Food.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Food.m; sourceTree = "<group>"; };
+		CE7DB17D11A5E99F004724FB /* whatsleftchef.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = whatsleftchef.db; sourceTree = "<group>"; };
+		CE7DB1A611A5EAA8004724FB /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
+		CE7DB1AE11A5F132004724FB /* RecipeListTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RecipeListTableViewCell.xib; sourceTree = "<group>"; };
+		CEA56CD911A2F47800B44B3E /* GuestSizeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GuestSizeViewController.h; sourceTree = "<group>"; };
+		CEA56CDA11A2F47800B44B3E /* GuestSizeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GuestSizeViewController.m; sourceTree = "<group>"; };
+		CEA56CDB11A2F47800B44B3E /* GuestSizeViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = GuestSizeViewController.xib; path = Classes/GuestSizeViewController.xib; sourceTree = "<group>"; };
+		CEA56D2A11A2F90E00B44B3E /* FridgeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FridgeViewController.h; sourceTree = "<group>"; };
+		CEA56D2B11A2F90E00B44B3E /* FridgeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FridgeViewController.m; sourceTree = "<group>"; };
+		CEA56D2C11A2F90E00B44B3E /* FridgeViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = FridgeViewController.xib; path = Classes/FridgeViewController.xib; sourceTree = "<group>"; };
+		CEA56D4811A2FB6C00B44B3E /* ManualFridgeItemAddViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ManualFridgeItemAddViewController.h; sourceTree = "<group>"; };
+		CEA56D4911A2FB6C00B44B3E /* ManualFridgeItemAddViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ManualFridgeItemAddViewController.m; sourceTree = "<group>"; };
+		CEA56D4A11A2FB6C00B44B3E /* ManualFridgeItemAddViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ManualFridgeItemAddViewController.xib; path = Classes/ManualFridgeItemAddViewController.xib; sourceTree = "<group>"; };
+		CEA56D6311A3016D00B44B3E /* MealTypeSelectViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MealTypeSelectViewController.h; sourceTree = "<group>"; };
+		CEA56D6411A3016D00B44B3E /* MealTypeSelectViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MealTypeSelectViewController.m; sourceTree = "<group>"; };
+		CEA56D6511A3016D00B44B3E /* MealTypeSelectViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MealTypeSelectViewController.xib; path = Classes/MealTypeSelectViewController.xib; sourceTree = "<group>"; };
+		CEA56DE411A30E9D00B44B3E /* MealsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MealsViewController.h; sourceTree = "<group>"; };
+		CEA56DE511A30E9D00B44B3E /* MealsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MealsViewController.m; sourceTree = "<group>"; };
+		CEA56DE711A30EAD00B44B3E /* MealsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MealsViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */,
+				CE7DB1A711A5EAA8004724FB /* libsqlite3.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				28C286DF0D94DF7D0034E888 /* RootViewController.h */,
+				28C286E00D94DF7D0034E888 /* RootViewController.m */,
+				1D3623240D0F684500981E51 /* WhatsLeftChefAppDelegate.h */,
+				1D3623250D0F684500981E51 /* WhatsLeftChefAppDelegate.m */,
+				CEA56CD911A2F47800B44B3E /* GuestSizeViewController.h */,
+				CEA56CDA11A2F47800B44B3E /* GuestSizeViewController.m */,
+				CEA56D2A11A2F90E00B44B3E /* FridgeViewController.h */,
+				CEA56D2B11A2F90E00B44B3E /* FridgeViewController.m */,
+				CEA56D4811A2FB6C00B44B3E /* ManualFridgeItemAddViewController.h */,
+				CEA56D4911A2FB6C00B44B3E /* ManualFridgeItemAddViewController.m */,
+				CEA56D6311A3016D00B44B3E /* MealTypeSelectViewController.h */,
+				CEA56D6411A3016D00B44B3E /* MealTypeSelectViewController.m */,
+				CEA56DE411A30E9D00B44B3E /* MealsViewController.h */,
+				CEA56DE511A30E9D00B44B3E /* MealsViewController.m */,
+				CE3D653811A6CB4D00AD6C6B /* MealDetailViewController.h */,
+				CE3D653911A6CB4D00AD6C6B /* MealDetailViewController.m */,
+				CE3E99C611AB4FB100E15A20 /* Food.h */,
+				CE3E99C711AB4FB100E15A20 /* Food.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* WhatsLeftChef.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				28A0AAE50D9B0CCF005BE974 /* WhatsLeftChef_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				CE3504C711AAE7F4009F0FD5 /* creepychef.png */,
+				CE3504C811AAE7F4009F0FD5 /* gallonofmilk.png */,
+				CE3504C911AAE7F4009F0FD5 /* glassofmilk.png */,
+				CE3504CA11AAE7F4009F0FD5 /* hamandcheese.png */,
+				CE3504CB11AAE7F4009F0FD5 /* kraftcheese.png */,
+				CE3504CC11AAE7F4009F0FD5 /* krogerham.png */,
+				CE3504CD11AAE7F4009F0FD5 /* loafofbread.png */,
+				CE3504CE11AAE7F4009F0FD5 /* whatsleftchef.png */,
+				CE7DB17D11A5E99F004724FB /* whatsleftchef.db */,
+				CEA56D6511A3016D00B44B3E /* MealTypeSelectViewController.xib */,
+				CEA56D4A11A2FB6C00B44B3E /* ManualFridgeItemAddViewController.xib */,
+				CEA56D2C11A2F90E00B44B3E /* FridgeViewController.xib */,
+				28F335F01007B36200424DE2 /* RootViewController.xib */,
+				CEA56CDB11A2F47800B44B3E /* GuestSizeViewController.xib */,
+				28AD735F0D9D9599002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* WhatsLeftChef-Info.plist */,
+				CEA56DE711A30EAD00B44B3E /* MealsViewController.xib */,
+				CE7DB1AE11A5F132004724FB /* RecipeListTableViewCell.xib */,
+				CE3D653B11A6CB8400AD6C6B /* MealDetailViewController.xib */,
+				CE2B778511A70A4F00610F33 /* FridgeItemTableViewCell.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */,
+				CE7DB1A611A5EAA8004724FB /* libsqlite3.dylib */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* WhatsLeftChef */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "WhatsLeftChef" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WhatsLeftChef;
+			productName = WhatsLeftChef;
+			productReference = 1D6058910D05DD3D006BFB54 /* WhatsLeftChef.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "WhatsLeftChef" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				en,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* WhatsLeftChef */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */,
+				28F335F11007B36200424DE2 /* RootViewController.xib in Resources */,
+				CEA56CDD11A2F47800B44B3E /* GuestSizeViewController.xib in Resources */,
+				CEA56D2E11A2F90E00B44B3E /* FridgeViewController.xib in Resources */,
+				CEA56D4C11A2FB6C00B44B3E /* ManualFridgeItemAddViewController.xib in Resources */,
+				CEA56D6711A3016D00B44B3E /* MealTypeSelectViewController.xib in Resources */,
+				CEA56DE811A30EAD00B44B3E /* MealsViewController.xib in Resources */,
+				CE7DB17E11A5E99F004724FB /* whatsleftchef.db in Resources */,
+				CE7DB1AF11A5F132004724FB /* RecipeListTableViewCell.xib in Resources */,
+				CE3D653C11A6CB8400AD6C6B /* MealDetailViewController.xib in Resources */,
+				CE2B778611A70A4F00610F33 /* FridgeItemTableViewCell.xib in Resources */,
+				CE3504CF11AAE7F4009F0FD5 /* creepychef.png in Resources */,
+				CE3504D011AAE7F4009F0FD5 /* gallonofmilk.png in Resources */,
+				CE3504D111AAE7F4009F0FD5 /* glassofmilk.png in Resources */,
+				CE3504D211AAE7F4009F0FD5 /* hamandcheese.png in Resources */,
+				CE3504D311AAE7F4009F0FD5 /* kraftcheese.png in Resources */,
+				CE3504D411AAE7F4009F0FD5 /* krogerham.png in Resources */,
+				CE3504D511AAE7F4009F0FD5 /* loafofbread.png in Resources */,
+				CE3504D611AAE7F4009F0FD5 /* whatsleftchef.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* WhatsLeftChefAppDelegate.m in Sources */,
+				28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */,
+				CEA56CDC11A2F47800B44B3E /* GuestSizeViewController.m in Sources */,
+				CEA56D2D11A2F90E00B44B3E /* FridgeViewController.m in Sources */,
+				CEA56D4B11A2FB6C00B44B3E /* ManualFridgeItemAddViewController.m in Sources */,
+				CEA56D6611A3016D00B44B3E /* MealTypeSelectViewController.m in Sources */,
+				CEA56DE611A30E9D00B44B3E /* MealsViewController.m in Sources */,
+				CE3D653A11A6CB4D00AD6C6B /* MealDetailViewController.m in Sources */,
+				CE3E99C811AB4FB100E15A20 /* Food.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = WhatsLeftChef_Prefix.pch;
+				INFOPLIST_FILE = "WhatsLeftChef-Info.plist";
+				PRODUCT_NAME = WhatsLeftChef;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = WhatsLeftChef_Prefix.pch;
+				INFOPLIST_FILE = "WhatsLeftChef-Info.plist";
+				PRODUCT_NAME = WhatsLeftChef;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphonesimulator3.2;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphonesimulator3.2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "WhatsLeftChef" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "WhatsLeftChef" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

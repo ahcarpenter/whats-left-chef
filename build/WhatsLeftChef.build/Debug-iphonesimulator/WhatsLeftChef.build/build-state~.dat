@@ -1,0 +1,305 @@
+TWhatsLeftChef
+v7
+r0
+t295891330.195308
+cCheck dependencies
+cProcessInfoPlistFile /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/Info.plist WhatsLeftChef-Info.plist
+cCompileXIB /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/MainWindow.xib
+cCompileXIB /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/RootViewController.xib
+cCpResource build/Debug-iphonesimulator/WhatsLeftChef.app/chef.png chef.png
+cProcessPCH /var/folders/bm/bmaOBF1aFHmfcBIfLKx0yk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatsLeftChef_Prefix-bdakqjwitongvpdttlhilybbtzfj/WhatsLeftChef_Prefix.pch.gch WhatsLeftChef_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/Objects-normal/i386/main.o /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/Objects-normal/i386/WhatsLeftChefAppDelegate.o /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/Classes/WhatsLeftChefAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/Objects-normal/i386/RootViewController.o /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/WhatsLeftChef normal i386
+cGenerateDSYMFile /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app.dSYM /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/WhatsLeftChef
+cTouch /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004BE01AB200000000000000EE
+t1272978098
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/Availability.h
+c000000004B2B4EE200000000000019F9
+t1261129442
+s6649
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/Classes/RootViewController.h
+c000000004BF2B0BA00000000000000F9
+t1274196154
+s249
+i<UIKit/UIKit.h>
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/Classes/RootViewController.m
+c000000004BF2B0BA00000000000010D1
+t1274196154
+s4305
+i"RootViewController.h"
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/Classes/WhatsLeftChefAppDelegate.h
+c000000004BF2B0BA00000000000001ED
+t1274196154
+s493
+i<UIKit/UIKit.h>
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/Classes/WhatsLeftChefAppDelegate.m
+c000000004BF2B0BA0000000000000388
+t1274196154
+s904
+i"WhatsLeftChefAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/MainWindow.xib
+c000000004BF2B9EE0000000000005D69
+t1274198510
+s23913
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/RootViewController.xib
+c000000004BF2B9D70000000000006C8C
+t1274198487
+s27788
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/WhatsLeftChef_Prefix.pch
+c000000004BF2B0BB000000000000014C
+t1274196155
+s332
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app
+t1274198530
+s272
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app.dSYM
+t1274198530
+s102
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/Info.plist
+t1274198513
+s617
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/MainWindow.nib
+t1274198521
+s2071
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/PkgInfo
+t1274198513
+s8
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/RootViewController.nib
+t1274198521
+s3831
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/WhatsLeftChef
+t1274198530
+s20712
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/chef.png
+t1274198521
+s105680
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/chef.svg.hi.png
+t2
+s0
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/chef_icon.png
+t2
+s0
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/Objects-normal/i386/RootViewController.o
+t1274198529
+s32752
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/Objects-normal/i386/WhatsLeftChef.LinkFileList
+c000000004BF2B9F100000000000001EA
+t1274198513
+s490
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/Objects-normal/i386/WhatsLeftChefAppDelegate.o
+t1274198529
+s40072
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/Objects-normal/i386/main.o
+t1274198528
+s5984
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/chef.png
+c000000004BF2B99A0000000000019CD0
+t1274198426
+s105680
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/chef.svg.hi.png
+c000000004BF2B92B000000000001CE65
+t1274198315
+s118373
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/chef_icon.png
+c000000004BF2B89F0000000000003768
+t1274198175
+s14184
+
+N/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/main.m
+c000000004BF2B0BB0000000000000177
+t1274196155
+s375
+i<UIKit/UIKit.h>
+
+N/var/folders/bm/bmaOBF1aFHmfcBIfLKx0yk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatsLeftChef_Prefix-bdakqjwitongvpdttlhilybbtzfj/WhatsLeftChef_Prefix.pch.gch
+t1274198528
+s13026768
+
+NWhatsLeftChef-Info.plist
+c000000004BF2B0BB000000000000038D
+t1274196155
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies295891313#295891313#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/Objects-normal/i386/RootViewController.o /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295891329.002850
+e295891329.125432
+r1
+xCompileC
+xbuild/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/Objects-normal/i386/RootViewController.o
+x/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/Classes/RootViewController.m295891329#295891329#0(0"0(0#0#85"/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/Classes/RootViewController.m4300911832#2213"    cd /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/WhatsLeftChef-generated-files.hmap -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/WhatsLeftChef-own-target-headers.hmap -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/WhatsLeftChef-all-target-headers.hmap -iquote /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/WhatsLeftChef-project-headers.hmap -F/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/include -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/DerivedSources/i386 -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/DerivedSources -include /var/folders/bm/bmaOBF1aFHmfcBIfLKx0yk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatsLeftChef_Prefix-bdakqjwitongvpdttlhilybbtzfj/WhatsLeftChef_Prefix.pch -c /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/Classes/RootViewController.m -o /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/Objects-normal/i386/WhatsLeftChefAppDelegate.o /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/Classes/WhatsLeftChefAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295891328.884988
+e295891329.034741
+r1
+xCompileC
+xbuild/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/Objects-normal/i386/WhatsLeftChefAppDelegate.o
+x/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/Classes/WhatsLeftChefAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/Classes/WhatsLeftChefAppDelegate.m295891328#295891329#0(0"0(0#0#91"/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/Classes/WhatsLeftChefAppDelegate.m4300911832#2225"    cd /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/WhatsLeftChef-generated-files.hmap -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/WhatsLeftChef-own-target-headers.hmap -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/WhatsLeftChef-all-target-headers.hmap -iquote /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/WhatsLeftChef-project-headers.hmap -F/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/include -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/DerivedSources/i386 -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/DerivedSources -include /var/folders/bm/bmaOBF1aFHmfcBIfLKx0yk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatsLeftChef_Prefix-bdakqjwitongvpdttlhilybbtzfj/WhatsLeftChef_Prefix.pch -c /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/Classes/WhatsLeftChefAppDelegate.m -o /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/Objects-normal/i386/WhatsLeftChefAppDelegate.o0#
+
+CCompileC build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/Objects-normal/i386/main.o /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295891328.882801
+e295891329.002732
+r1
+xCompileC
+xbuild/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/Objects-normal/i386/main.o
+x/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/main.m295891328#295891329#0(0"0(0#0#63"/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/main.m4300911832#2177"    cd /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/WhatsLeftChef-generated-files.hmap -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/WhatsLeftChef-own-target-headers.hmap -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/WhatsLeftChef-all-target-headers.hmap -iquote /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/WhatsLeftChef-project-headers.hmap -F/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/include -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/DerivedSources/i386 -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/DerivedSources -include /var/folders/bm/bmaOBF1aFHmfcBIfLKx0yk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatsLeftChef_Prefix-bdakqjwitongvpdttlhilybbtzfj/WhatsLeftChef_Prefix.pch -c /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/main.m -o /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/MainWindow.xib
+s295891313.500545
+e295891321.606356
+r1
+xCompileXIB
+x/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib295891313#295891321#0(0"0(0#0#71"/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/MainWindow.xib4300911832#542"    cd /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/MainWindow.nib /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/MainWindow.xib0#
+
+CCompileXIB /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/RootViewController.xib
+s295891313.588149
+e295891321.710825
+r1
+xCompileXIB
+x/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib295891313#295891321#0(0"0(0#0#79"/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/RootViewController.xib4300911832#558"    cd /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/RootViewController.nib /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/RootViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/WhatsLeftChef.app/chef.png chef.png
+s295891321.606503
+e295891321.807608
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WhatsLeftChef.app/chef.png
+xchef.png
+lSLF07#2@13"Copy chef.png295891321#295891321#0(0"0(0#0#65"/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/chef.png4300911832#512"    cd /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/chef.png /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app0#
+
+CCpResource build/Debug-iphonesimulator/WhatsLeftChef.app/chef.svg.hi.png chef.svg.hi.png
+r0
+
+CCpResource build/Debug-iphonesimulator/WhatsLeftChef.app/chef_icon.png chef_icon.png
+r0
+
+CGenerateDSYMFile /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app.dSYM /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/WhatsLeftChef
+s295891330.041567
+e295891330.157005
+r1
+xGenerateDSYMFile
+x/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app.dSYM
+x/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/WhatsLeftChef
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/WhatsLeftChef.app.dSYM build/Debug-iphonesimulator/WhatsLeftChef.app/WhatsLeftChef295891330#295891330#0(0"0(0#0#116"/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/WhatsLeftChef4300911832#455"    cd /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/WhatsLeftChef -o /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app.dSYM0#
+
+CLd /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/WhatsLeftChef normal i386
+s295891329.125571
+e295891330.041455
+r1
+xLd
+x/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/WhatsLeftChef
+xnormal
+xi386
+lSLF07#2@121"Link /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/WhatsLeftChef295891329#295891330#0(0"0(0#0#0"4300911832#984"    cd /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator -F/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator -filelist /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/Objects-normal/i386/WhatsLeftChef.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/WhatsLeftChef0#
+
+CProcessInfoPlistFile /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/Info.plist WhatsLeftChef-Info.plist
+s295891313.466157
+e295891313.500432
+r1
+xProcessInfoPlistFile
+x/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/Info.plist
+xWhatsLeftChef-Info.plist
+lSLF07#2@32"Process WhatsLeftChef-Info.plist295891313#295891313#0(0"0(0#0#81"/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/WhatsLeftChef-Info.plist4300911832#551"    cd /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility WhatsLeftChef-Info.plist -genpkginfo /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app/Info.plist0#
+
+CProcessPCH /var/folders/bm/bmaOBF1aFHmfcBIfLKx0yk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatsLeftChef_Prefix-bdakqjwitongvpdttlhilybbtzfj/WhatsLeftChef_Prefix.pch.gch WhatsLeftChef_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s295891321.807750
+e295891328.882378
+r1
+xProcessPCH
+x/var/folders/bm/bmaOBF1aFHmfcBIfLKx0yk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatsLeftChef_Prefix-bdakqjwitongvpdttlhilybbtzfj/WhatsLeftChef_Prefix.pch.gch
+xWhatsLeftChef_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile WhatsLeftChef_Prefix.pch295891321#295891328#0(0"0(0#0#81"/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/WhatsLeftChef_Prefix.pch4300911832#2045"    cd /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/WhatsLeftChef-generated-files.hmap -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/WhatsLeftChef-own-target-headers.hmap -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/WhatsLeftChef-all-target-headers.hmap -iquote /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/WhatsLeftChef-project-headers.hmap -F/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/include -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/DerivedSources/i386 -I/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/WhatsLeftChef.build/Debug-iphonesimulator/WhatsLeftChef.build/DerivedSources -c /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/WhatsLeftChef_Prefix.pch -o /var/folders/bm/bmaOBF1aFHmfcBIfLKx0yk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatsLeftChef_Prefix-bdakqjwitongvpdttlhilybbtzfj/WhatsLeftChef_Prefix.pch.gch0#
+
+CTouch /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app
+s295891330.157109
+e295891330.195257
+r1
+xTouch
+x/Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app
+lSLF07#2@108"Touch /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app295891330#295891330#0(0"0(0#0#0"4300911832#320"    cd /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dcarpenter/Dropbox/workspace/iPhone/WhatsLeftChef/build/Debug-iphonesimulator/WhatsLeftChef.app0#
+
