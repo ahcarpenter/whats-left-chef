@@ -6,12 +6,6 @@ Never lookup a recipe again.
 Video (click for video)
 ---------------------
 [![](http://i54.tinypic.com/2qtyf7l.jpg)](http://www.youtube.com/watch?v=kGlszjjIrmE)
-
-Features
---------------
-* A view that shows a list of meals that is contingent on the ingredients being available in your fridge. (currently must have all the ingredients)
-* A view that shows a list of all the items currently in your fridge.
-* An included sqlite3 recipe database with over 2 recipes! (but seriously, we're working on this)
  
 Dependencies
 ---------------
